@@ -6,5 +6,6 @@ plugins:
 include:
   - CONTRIBUTING.md
   - README.md
+  - bitcoin-2026.md
 title: ibenitez's Github page
 description: ibenitez's Github page description
