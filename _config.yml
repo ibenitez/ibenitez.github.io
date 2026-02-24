@@ -1,11 +1,5 @@
 lsi: true
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-optional-front-matter
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - bitcoin-2026.md
 title: ibenitez's Github page
-description: ibenitez's Github page description
+description: ibenitez's Github page
+show_downloads: true
+theme: jekyll-theme-modernist
