@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## Bitcoin
+- [2026 purchasing plan](bitcoin-2026.md)
+
 ## Posts
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
