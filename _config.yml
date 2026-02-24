@@ -1,5 +1,5 @@
 lsi: true
 title: ibenitez's Github page
 description: ibenitez's Github page
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-modernist
