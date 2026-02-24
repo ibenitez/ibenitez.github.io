@@ -1,3 +1,5 @@
+[Back](/)
+
 ## **Tabla de decisión granular – Gaps de $500**
 
 |Precio BTC ese día (USD)|Monto recomendado a comprar (USD)|BTC aproximado que obtendrías|Comentario / Zona|
@@ -49,6 +51,8 @@
 |46,000 – 46,499|200|~0.004348|Muy agresivo|
 |45,500 – 45,999|210|~0.004615|Invierte fuerte|
 |≤ 45,000|220 o todo lo restante|>0.004889|Bear extremo → liquida lo que quede|
+
+[Back](/)
 
 
 
