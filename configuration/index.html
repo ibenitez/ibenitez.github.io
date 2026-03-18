@@ -642,25 +642,31 @@ python -m pip install -U mkdocs-material
 <pre><code class="language-bash">mkdocs serve
 
 -a &lt;IP:PORT&gt;: Change the server address and port.
--w &lt;path&gt;: Add custom directories or files to watch for changes.
---dirtyreload: Rebuild only changed files for faster updates (ideal for large projects).
+-w &lt;path&gt;: Add custom directories or files to 
+       watch for changes.
+--dirtyreload: Rebuild only changed files for 
+       faster updates (ideal for large projects).
 </code></pre>
 <h3 id="build-static-site">Build static site</h3>
 <pre><code class="language-bash">mkdocs build
 
 By default, the output is placed in the ./site/
 -d &lt;build-dir&gt;: Change build directory.
---clean to remove stale files from the site directory before rebuilding.
+--clean to remove stale files from the site 
+       directory before rebuilding.
 </code></pre>
 <h3 id="deploy-to-github-pages">Deploy to Github Pages</h3>
 <pre><code class="language-bash">mkdocs gh-deploy --force
 
 1. Builds your documentation using mkdocs build.
-2. Uses ghp-import to commit the built site to the gh-pages branch.
-3. Pushes the gh-pages branch to GitHub, triggering GitHub Pages to serve your site.
+2. Uses ghp-import to commit the built site to 
+   the gh-pages branch.
+3. Pushes the gh-pages branch to GitHub, 
+   triggering GitHub Pages to serve your site.
 
 --force: Force the push to the repository.
---theme [material|mkdocs|readthedocs]: The theme to use when building your documentation.
+--theme [material|mkdocs|readthedocs]: The theme 
+  to use when building your documentation.
 </code></pre>
 
 
